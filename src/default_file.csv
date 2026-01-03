@@ -1,0 +1,21 @@
+team_name,common_name,wins,draws,draws_home,draws_away,losses,points_per_game,league_position,goals_scored,goals_conceded,goal_difference,total_goal_count
+Arsenal FC,Arsenal,21,7,3,4,10,1.84,5,73,51,22,124
+Tottenham Hotspur FC,Tottenham Hotspur,23,2,2,0,13,1.87,4,67,39,28,106
+Manchester City FC,Manchester City,32,2,0,2,4,2.58,1,95,23,72,118
+Leicester City FC,Leicester City,15,7,3,4,16,1.37,9,51,48,3,99
+Crystal Palace FC,Crystal Palace,14,7,5,2,17,1.29,12,51,53,-2,104
+Everton FC,Everton,15,9,4,5,14,1.42,8,54,46,8,100
+Burnley FC,Burnley,11,7,2,5,20,1.05,15,45,68,-23,113
+Southampton FC,Southampton,9,12,8,4,17,1.03,16,45,65,-20,110
+AFC Bournemouth,AFC Bournemouth,13,6,5,1,19,1.18,14,56,70,-14,126
+Manchester United FC,Manchester United,19,9,6,3,10,1.74,6,65,54,11,119
+Liverpool FC,Liverpool,30,7,2,5,1,2.55,2,89,22,67,111
+Chelsea FC,Chelsea,21,9,6,3,8,1.89,3,63,39,24,102
+West Ham United FC,West Ham United,15,7,4,3,16,1.37,10,52,55,-3,107
+Watford FC,Watford,14,8,3,5,16,1.32,11,52,59,-7,111
+Newcastle United FC,Newcastle United,12,9,1,8,17,1.18,13,42,48,-6,90
+Cardiff City FC,Cardiff City,10,4,2,2,24,0.89,18,34,69,-35,103
+Fulham FC,Fulham,7,5,3,2,26,0.68,19,34,81,-47,115
+Brighton & Hove Albion FC,Brighton & Hove Albion,9,9,5,4,20,0.95,17,35,60,-25,95
+Huddersfield Town FC,Huddersfield Town,3,7,3,4,28,0.42,20,22,76,-54,98
+Wolverhampton Wanderers FC,Wolverhampton Wanderers,16,9,4,5,13,1.5,7,47,46,1,93
